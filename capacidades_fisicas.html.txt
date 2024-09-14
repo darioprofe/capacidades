@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capacidades Físicas Básicas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #ffffff;
+            color: #333;
+        }
+        header {
+            background-color: #001f3f; /* Azul marino */
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #f4f0e6; /* Naranja pastel muy suave */
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #001f3f; /* Azul marino */
+        }
+        p {
+            font-size: 1.2em;
+        }
+        video {
+            display: block;
+            margin: 20px auto;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+        }
+        a {
+            color: #ff7f50; /* Naranja pastel */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Capacidades Físicas Básicas</h1>
+</header>
+
+<section>
+    <h2>Resistencia</h2>
+    <p>La resistencia es la capacidad del organismo para mantener un esfuerzo durante un período prolongado de tiempo. Se trabaja a través de ejercicios aeróbicos como correr, nadar o andar en bicicleta.</p>
+    <video controls width="600">
+        <source src="video_resistencia.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento de video.
+    </video>
+</section>
+
+<section>
+    <h2>Fuerza</h2>
+    <p>La fuerza es la capacidad de un músculo o grupo muscular para generar tensión frente a una resistencia. Se puede trabajar mediante ejercicios como levantamiento de pesas, flexiones o ejercicios con bandas elásticas.</p>
+    <video controls width="600">
+        <source src="video_fuerza.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento de video.
+    </video>
+</section>
+
+<section>
+    <h2>Velocidad</h2>
+    <p>La velocidad es la capacidad de realizar un movimiento en el menor tiempo posible. Se mejora a través de sprints, saltos y ejercicios de agilidad.</p>
+</section>
+
+<section>
+    <h2>Flexibilidad</h2>
+    <p>La flexibilidad es la capacidad de un músculo para estirarse sin dañarse. Los ejercicios de estiramiento y el yoga son métodos efectivos para mejorarla.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Profesor de Educación Física</p>
+</footer>
+
+</body>
+</html>
